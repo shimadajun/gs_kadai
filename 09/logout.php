@@ -1,5 +1,6 @@
 <?php
 //必ずsession_startは最初に記述
+echo("hoge");
 session_start();
 
 //SESSIONを初期化（空っぽにする）
